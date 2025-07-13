@@ -2,8 +2,6 @@
 
 A collaborative budgeting app built with [Convex](https://convex.dev) (backend) and [Vite](https://vitejs.dev/) + [React](https://react.dev) (frontend). Styled with [Tailwind CSS](https://tailwindcss.com/). An app that i'm vibe coding, to handle the weird way I do my monthly budgets.
 
-This project is connected to the Convex deployment: [`disciplined-frog-241`](https://dashboard.convex.dev/d/disciplined-frog-241).
-
 ---
 
 ## Project Structure
